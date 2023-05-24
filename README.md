@@ -1,16 +1,14 @@
 # Data Engineer Tech Challenge
 
-This test is split into 5 sections
+This test is split into 3 sections:
 
-1. **data pipelines**
-2. **databases**
-3. **system design**
-4. **charts & APIs**
-5. **machine learning**
+1. **Data Pipelines**
+2. **Databases**
+3. **System Design**
 
 ## Submission Guidelines
 
-Please create a Github repository containing your submission and send us an email containing a link to the repository.
+Please create a Github repository containing your submission and send us an email containing a link to the repository. Ensure that the repository is marked as `Private`, and grant access to the users provided to you separately.
 
 Dos:
 
