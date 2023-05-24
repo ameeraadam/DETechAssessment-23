@@ -88,23 +88,3 @@ Code has already been written by the company's software engineers to process the
 As a data engineer within the company, you are required to produce a system architecture diagram (Visio, PowerPoint, draw.io) depicting the end-to-end flow of the aforementioned pipeline. You may use any of the cloud providers (e.g. AWS, Azure, GCP) to host the environment. The architecture should specifically address the requirements/concerns above.
 
 Do indicate any assumptions you have made regarding the architecture. You are required to provide a detailed explanation on the diagram.
-
----
-## Section 4: Charts & APIs
-Your team has decided to conduct an analysis of historical resale prices in Singapore. You are tasked to display a visual representation of the average monthly historical resale prices of **4 Room flats** in **Jurong East** from **Jan 2017 onwards**. You may disregard the flat models. 
-
-Your team decided to use the public data from https://data.gov.sg/dataset/resale-flat-prices. Display a graph to show the average monthly resale prices of 4 Room flats in Jurong East using APIs from https://data.gov.sg/api/action/datastore_search?resource_id=f1765b54-a209-4718-8d38-a39237f502b3
-
-Note: please submit screenshots of the dashboard and include a notebook of your script
-
----
-
-
-## Section 5: Machine Learning
-Using the dataset from https://archive.ics.uci.edu/ml/datasets/Car+Evaluation, create a machine learning model to predict the buying price given the following parameters:
-
-Maintenance = High <br>
-Number of doors = 4 <br>
-Lug Boot Size = Big <br>
-Safety = High <br>
-Class Value = Good <br>
